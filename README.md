@@ -6,4 +6,5 @@ Learning Kotlin: Kotlin programlama dilinde öğrendiğim konuları, örnek proj
 - Java bilgimi Kotlin'e çevirmek.
 - Jetpack Compose ve Android geliştirmeye giriş yapmak.
 
-daha güzelce yaz konulara girme ne konuları yapcamı bende bilmiyom şuan
+## Paketler
+- [Basics](app/src/main/java/basics)
