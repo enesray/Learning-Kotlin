@@ -7,7 +7,6 @@ Kotlin programlama dilinde öğrendiğim konuları, örnek projeleri ve kod prat
 ## 🎯 **Amaç**
 - Kotlin'in temel konseptlerini öğrenmek ve uygulamak.
 - Java bilgimi Kotlin'e dönüştürmek.
-- Jetpack Compose ve Android geliştirmeye giriş yapmak.
 - Modern yazılım geliştirme tekniklerini öğrenerek kendimi geliştirmek.
 
 ---
@@ -31,7 +30,7 @@ Kotlin programlama dilinin temel kavramlarını içerir. Her konu detaylı açı
 - [**ComparisonOperators.kt**](app/src/main/java/basics/operators/ComparisonOperators.kt): Karşılaştırma operatörleri.  
 
 #### **📁 Standart Programlama Yapıları**  
-**Klasör:** [Standard Programming Structures](app/src/main/java/basics/stardard_programming_structures)  
+**Paket:** [Standard Programming Structures](app/src/main/java/basics/stardard_programming_structures)  
 - [**IfUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/IfUsageExample.kt): `if-else` kullanımı.  
 - [**WhenUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/WhenUsageExample.kt): `when` kullanımı.  
 - [**LoopsExample.kt**](app/src/main/java/basics/stardard_programming_structures/LoopsExample.kt): Döngüler (`for-in`, `while`) ve `break`, `continue` örnekleri.  
@@ -39,13 +38,5 @@ Kotlin programlama dilinin temel kavramlarını içerir. Her konu detaylı açı
 #### **📁 Genel (General)**  
 **Paket:** [General](app/src/main/java/basics/general)  
 - [**ConsoleScanner.kt**](app/src/main/java/basics/general/ConsoleScanner.kt): Konsol üzerinden veri girişi (Scanner).  
-
----
-
-## 🚀 **Öne Çıkanlar**
-- Kotlin temellerinden ileri düzey konseptlere kadar detaylı öğrenme süreci.
-- Kod örnekleri ve açıklamalarla zenginleştirilmiş içerik.
-- Java'dan Kotlin'e geçiş için rehber niteliğinde pratikler.
----
 
 ---
