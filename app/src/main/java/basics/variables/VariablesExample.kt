@@ -39,4 +39,11 @@ fun main() {
     var sayi1=10
     var sayi2=30
     println("$sayi1 ve $sayi2 toplam : ${sayi1+sayi2}")
+
+
+    println("-------------------------------")
+
+    //Değişken Kapsamı kodları - VariablesScope
+    var variablesScope = VariablesScope()
+    variablesScope.topla()
 }
