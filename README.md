@@ -7,4 +7,4 @@ Learning Kotlin: Kotlin programlama dilinde öğrendiğim konuları, örnek proj
 - Jetpack Compose ve Android geliştirmeye giriş yapmak.
 
 ## Paketler
-- [Basics](app/src/main/java/basics)
+- [Basics](app/src/main/java/basics)  - Basit Temellerin Yer Aldığı Paket
