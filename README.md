@@ -28,7 +28,13 @@ Kotlin programlama dilinin temel kavramlarını içerir.
  **Operatörler - operators İçeriği**
    1. - [**ArithmeticOperators.kt**](app/src/main/java/basics/operators/ArithmeticOperators.kt): Aritmetik Operatörler (+),(-),(*),(/),(%)
    2. - [**TypeConversion.kt**](app/src/main/java/basics/operators/TypeConversion.kt): Tür Dönüşümü - Ornekler: (toDouble), (toDoubleOrNull)
-   3. - [**ComparisonOperators.kt**](app/src/main/java/basics/operators/ComparisonOperators.kt): Karşılaştırma Operatörleri (==),(!=),(>),(<),(>=),(<=)
+   3. - [**ComparisonOperators.kt**](app/src/main/java/basics/operators/ComparisonOperators.kt): Karşılaştırma Operatörleri (==),(!=),(>),(<),(>=),(<=),(||),(&&)
+
+**[Standart Programlama Yapıları (stardard_programming_structures)](app/src/main/java/basics/stardard_programming_structures)**
+ **Standart Programlama Yapıları - stardard_programming_structures İçeriği**
+   1. - [**IfUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/IfUsageExample.kt): if -else kullanımı
+   2. - [**WhenUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/WhenUsageExample.kt): When kullanımı
+   3. - [**LoopsExample.kt**](app/src/main/java/basics/stardard_programming_structures/LoopsExample.kt): Döngüler (for in), (while) ve break and continue kullanımı
 
 **[Genel (general)](app/src/main/java/basics/general)**
  **Genel - general İçeriği**
