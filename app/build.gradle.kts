@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.raytech.kotlin_learning"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.raytech.kotlin_learning"
