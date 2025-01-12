@@ -17,7 +17,7 @@ Kotlin programlama dilinin temel kavramlarını içerir.
 
 #### Basics Paket İçerikleri:
  **[Değişkenler (Variables)](app/src/main/java/basics/variables)**
- **Değişken- Variables İçeriği**
+ **Değişken - Variables İçeriği**
  
    1. - [**VariablesExample.kt**](app/src/main/java/basics/variables/VariablesExample.kt): Değişken oluşturma kod örnekleri.
    2. - [**VariablesCreationTypes.kt**](app/src/main/java/basics/variables/VariablesCreationTypes.kt): Değişken Oluşturma Çeşitleri
@@ -25,12 +25,12 @@ Kotlin programlama dilinin temel kavramlarını içerir.
    4. - [**VariablesConstant.kt**](app/src/main/java/basics/variables/VariablesConstant.kt): Constant - Sabitler (Var ve Val Farkı)
         
 **[Operatörler (operators)](app/src/main/java/basics/operators)**
- **Operatörler- operators İçeriği**
+ **Operatörler - operators İçeriği**
    1. - [**ArithmeticOperators.kt**](app/src/main/java/basics/operators/ArithmeticOperators.kt): Aritmetik Operatörler (+),(-),(*),(/),(%)
    2. - [**TypeConversion.kt**](app/src/main/java/basics/operators/TypeConversion.kt): Tür Dönüşümü - Ornekler: (toDouble), (toDoubleOrNull)
 
 **[Genel (general)](app/src/main/java/basics/general)**
- **Genel- genel İçeriği**
+ **Genel - general İçeriği**
    1. - [**ConsoleScanner.kt**](app/src/main/java/basics/general/ConsoleScanner.kt): Console üzerinden veri girişi - Scanner(System.`in`)
 
 ---
