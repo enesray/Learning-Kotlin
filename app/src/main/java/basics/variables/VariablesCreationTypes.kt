@@ -1,4 +1,4 @@
-package basics
+package basics.variables
 //Değişken Oluşturma Çeşitleri
 
 fun main() {

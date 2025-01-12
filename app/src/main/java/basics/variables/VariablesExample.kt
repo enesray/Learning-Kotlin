@@ -1,6 +1,7 @@
-package basics
+package basics.variables
+//Değişken oluşturma örnekleri
+
 fun main() {
-//Değişken oluşturma
     var ogrenciAd = "Enes"
     var ogrenciYas = 22
     var ogrenciBoy = 1.80
