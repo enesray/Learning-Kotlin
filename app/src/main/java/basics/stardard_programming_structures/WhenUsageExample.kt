@@ -1,5 +1,7 @@
 package basics.stardard_programming_structures
 
+import java.util.Scanner
+
 //when kullanımı
 fun main() {
 
@@ -21,5 +23,32 @@ fun main() {
         7 -> println("Pazar")
         else -> println("Boyle bir gun yok")
     }
+
+    println("-------------------------------")
+
+    //When ile hesap makinesi
+
+    println("Toplama (1)")
+    println("Cikarma (2)")
+    println("Carpma  (3)")
+    println("Bolme   (4)")
+
+    val scanner = Scanner(System.`in`)
+    val secim = scanner.nextInt()
+
+    println("birinci sayiyi giriniz")
+    var sayi1 = scanner.nextInt()
+    println("ikinci sayiyi giriniz")
+    var sayi2 = scanner.nextInt()
+
+    when (secim) {
+        1 -> println(sayi1 + sayi2)
+        2 -> println(sayi1 - sayi2)
+        3 -> println(sayi1 * sayi2)
+        4 -> println(sayi1 / sayi2)
+        else -> println("Boyle bir islem yok")
+    }
+
+    println("-------------------------------")
 
 }
