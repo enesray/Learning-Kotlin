@@ -1,10 +1,16 @@
 # Learning-Kotlin
-Learning Kotlin: Kotlin programlama dilinde öğrendiğim konuları, örnek projeleri ve kod pratiklerini içeren bir repo. Kotlin'in temellerinden ileri düzey konulara kadar her adımı organize bir şekilde kaydediyorum.
+Kotlin programlama dilinde öğrendiğim konuları, örnek projeleri ve kod pratiklerini içeren bir repo. Kotlin'in temellerinden ileri düzey konulara kadar her adımı organize bir şekilde kaydediyorum.
 
-## Amaç
-- Kotlin'in temellerini anlamak.
-- Java bilgimi Kotlin'e çevirmek.
-- Jetpack Compose ve Android geliştirmeye giriş yapmak.
+## **Amaç**
+- Kotlin'in temel konseptlerini anlamak.  
+- Java bilgimi Kotlin'e dönüştürmek.  
+- Jetpack Compose ve Android geliştirmeye giriş yapmak.  
 
-## Paketler
-- [Basics](app/src/main/java/basics)  - Basit Temellerin Yer Aldığı Paket
+## **Paketler ve İçerikler**
+
+### **[Basics](app/src/main/java/basics)**
+Kotlin programlama dilinin temel kavramlarını içerir.
+
+#### Basics Paket İçerikleri:
+1. **[Değişkenler (Variables)](app/src/main/java/basics/variables)**    
+     - **VariablesCreationTypes.kt:** Değişken oluşturma ve türleri hakkında kod örnekleri.
