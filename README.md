@@ -29,4 +29,8 @@ Kotlin programlama dilinin temel kavramlarını içerir.
    1. - [**ArithmeticOperators.kt**](app/src/main/java/basics/operators/ArithmeticOperators.kt): Aritmetik Operatörler (+),(-),(*),(/),(%)
    2. - [**TypeConversion.kt**](app/src/main/java/basics/operators/TypeConversion.kt): Tür Dönüşümü - Ornekler: (toDouble), (toDoubleOrNull)
 
+**[Genel (general)](app/src/main/java/basics/general)**
+ **Genel- genel İçeriği**
+   1. - [**ConsoleScanner.kt**](app/src/main/java/basics/general/ConsoleScanner.kt): Console üzerinden veri girişi - Scanner(System.`in`)
+
 ---
