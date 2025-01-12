@@ -26,7 +26,7 @@ Kotlin programlama dilinin temel kavramlarını içerir. Her konu detaylı açı
 #### **📁 Operatörler (Operators)**  
 **Paket:** [Operators](app/src/main/java/basics/operators)  
 - [**ArithmeticOperators.kt**](app/src/main/java/basics/operators/ArithmeticOperators.kt): Aritmetik operatörler.  `+` `-` `*` `/` `%` 
-- [**TypeConversion.kt**](app/src/main/java/basics/operators/TypeConversion.kt): Tür dönüşümü örnekleri.  `toDouble` `toDoubleOrNull`
+- [**TypeConversion.kt**](app/src/main/java/basics/operators/TypeConversion.kt): Tür dönüşümü örnekleri.  Ornek: `toDouble` `toDoubleOrNull`
 - [**ComparisonOperators.kt**](app/src/main/java/basics/operators/ComparisonOperators.kt): Karşılaştırma operatörleri. `==` `!=` `>` `<` `>=` `<=` ve `||` `&&`
 
 #### **📁 Standart Programlama Yapıları**  
@@ -37,6 +37,6 @@ Kotlin programlama dilinin temel kavramlarını içerir. Her konu detaylı açı
 
 #### **📁 Genel (General)**  
 **Paket:** [General](app/src/main/java/basics/general)  
-- [**ConsoleScanner.kt**](app/src/main/java/basics/general/ConsoleScanner.kt): Konsol üzerinden veri girişi (Scanner).  
+- [**ConsoleScanner.kt**](app/src/main/java/basics/general/ConsoleScanner.kt): Konsol üzerinden veri girişi `Scanner(System.in)`.  
 
 ---
