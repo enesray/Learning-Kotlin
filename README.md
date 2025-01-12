@@ -20,5 +20,6 @@ Kotlin programlama dilinin temel kavramlarını içerir.
  **Değişken- Variables İçeriği**
    1. - [**VariablesExample.kt**](app/src/main/java/basics/variables/VariablesExample.kt): Değişken oluşturma kod örnekleri.
    2. - [**VariablesCreationTypes.kt**](app/src/main/java/basics/variables/VariablesCreationTypes.kt): Değişken Oluşturma Çeşitleri
+   3. - [**VariablesScope.kt**](app/src/main/java/basics/variables/VariablesScope.kt): Değişken Kapsamı (Global ve Local Değişken)
 
 ---
