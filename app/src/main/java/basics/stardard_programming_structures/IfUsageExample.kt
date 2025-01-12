@@ -109,4 +109,28 @@ fun main() {
 
     println("-------------------------------")
 
+
+    println("1 - Toplama")
+    println("2 - Cikarma")
+    println("3 - Carpma")
+    println("4 - Bolme")
+
+    println("Seciminizi yapin:")
+    val secim = girdi.nextInt()
+
+    println("birinci sayiyi Giriniz")
+    var number1 = girdi.nextInt()
+    println("ikinci sayiyi Giriniz")
+    var number2 = girdi.nextInt()
+
+    if (secim == 1) {
+        println("Toplam : ${number1 + number2}")
+    } else if (secim == 2) {
+        println("Cikarma : ${number1 - number2}")
+    } else if (secim == 3) {
+        println("Carpma : ${number1 * number2}")
+    } else if (secim == 4) {
+        println("Bolme : ${number1 / number2}")
+
+    }
 }
