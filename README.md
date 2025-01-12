@@ -1,43 +1,51 @@
 # Learning-Kotlin
+
 Kotlin programlama dilinde öğrendiğim konuları, örnek projeleri ve kod pratiklerini içeren bir repo. Kotlin'in temellerinden ileri düzey konulara kadar her adımı organize bir şekilde kaydediyorum.
 
 ---
 
-## **Amaç**
-- Kotlin'in temel konseptlerini anlamak.  
-- Java bilgimi Kotlin'e dönüştürmek.  
-- Jetpack Compose ve Android geliştirmeye giriş yapmak.  
+## 🎯 **Amaç**
+- Kotlin'in temel konseptlerini öğrenmek ve uygulamak.
+- Java bilgimi Kotlin'e dönüştürmek.
+- Jetpack Compose ve Android geliştirmeye giriş yapmak.
+- Modern yazılım geliştirme tekniklerini öğrenerek kendimi geliştirmek.
 
 ---
 
-## **Paketler ve İçerikler**
+## 📂 **Repo Yapısı ve İçerikler**
 
-### **[Basics](app/src/main/java/basics)**
-Kotlin programlama dilinin temel kavramlarını içerir.
+### 🔹 **[Basics](app/src/main/java/basics)**
+Kotlin programlama dilinin temel kavramlarını içerir. Her konu detaylı açıklamalar ve kod örnekleri ile desteklenmiştir.
 
-#### Basics Paket İçerikleri:
- **[Değişkenler (Variables)](app/src/main/java/basics/variables)**
- **Değişken - Variables İçeriği**
- 
-   1. - [**VariablesExample.kt**](app/src/main/java/basics/variables/VariablesExample.kt): Değişken oluşturma kod örnekleri.
-   2. - [**VariablesCreationTypes.kt**](app/src/main/java/basics/variables/VariablesCreationTypes.kt): Değişken Oluşturma Çeşitleri
-   3. - [**VariablesScope.kt**](app/src/main/java/basics/variables/VariablesScope.kt): Değişken Kapsamı (Global ve Local Değişken)
-   4. - [**VariablesConstant.kt**](app/src/main/java/basics/variables/VariablesConstant.kt): Constant - Sabitler (Var ve Val Farkı)
-        
-**[Operatörler (operators)](app/src/main/java/basics/operators)**
- **Operatörler - operators İçeriği**
-   1. - [**ArithmeticOperators.kt**](app/src/main/java/basics/operators/ArithmeticOperators.kt): Aritmetik Operatörler (+),(-),(*),(/),(%)
-   2. - [**TypeConversion.kt**](app/src/main/java/basics/operators/TypeConversion.kt): Tür Dönüşümü - Ornekler: (toDouble), (toDoubleOrNull)
-   3. - [**ComparisonOperators.kt**](app/src/main/java/basics/operators/ComparisonOperators.kt): Karşılaştırma Operatörleri (==),(!=),(>),(<),(>=),(<=),(||),(&&)
+#### **📁 Değişkenler (Variables)**  
+**Paket:** [Variables](app/src/main/java/basics/variables)  
+- [**VariablesExample.kt**](app/src/main/java/basics/variables/VariablesExample.kt): Değişken oluşturma örnekleri.  
+- [**VariablesCreationTypes.kt**](app/src/main/java/basics/variables/VariablesCreationTypes.kt): Değişken oluşturma çeşitleri.  
+- [**VariablesScope.kt**](app/src/main/java/basics/variables/VariablesScope.kt): Değişken kapsamı (global ve local).  
+- [**VariablesConstant.kt**](app/src/main/java/basics/variables/VariablesConstant.kt): Sabitler (var ve val farkı).  
 
-**[Standart Programlama Yapıları (stardard_programming_structures)](app/src/main/java/basics/stardard_programming_structures)**
- **Standart Programlama Yapıları - stardard_programming_structures İçeriği**
-   1. - [**IfUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/IfUsageExample.kt): if -else kullanımı
-   2. - [**WhenUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/WhenUsageExample.kt): When kullanımı
-   3. - [**LoopsExample.kt**](app/src/main/java/basics/stardard_programming_structures/LoopsExample.kt): Döngüler (for in), (while) ve break and continue kullanımı
+#### **📁 Operatörler (Operators)**  
+**Paket:** [Operators](app/src/main/java/basics/operators)  
+- [**ArithmeticOperators.kt**](app/src/main/java/basics/operators/ArithmeticOperators.kt): Aritmetik operatörler.  
+- [**TypeConversion.kt**](app/src/main/java/basics/operators/TypeConversion.kt): Tür dönüşümü örnekleri.  
+- [**ComparisonOperators.kt**](app/src/main/java/basics/operators/ComparisonOperators.kt): Karşılaştırma operatörleri.  
 
-**[Genel (general)](app/src/main/java/basics/general)**
- **Genel - general İçeriği**
-   1. - [**ConsoleScanner.kt**](app/src/main/java/basics/general/ConsoleScanner.kt): Console üzerinden veri girişi - Scanner(System.`in`)
+#### **📁 Standart Programlama Yapıları**  
+**Klasör:** [Standard Programming Structures](app/src/main/java/basics/stardard_programming_structures)  
+- [**IfUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/IfUsageExample.kt): `if-else` kullanımı.  
+- [**WhenUsageExample.kt**](app/src/main/java/basics/stardard_programming_structures/WhenUsageExample.kt): `when` kullanımı.  
+- [**LoopsExample.kt**](app/src/main/java/basics/stardard_programming_structures/LoopsExample.kt): Döngüler (`for-in`, `while`) ve `break`, `continue` örnekleri.  
+
+#### **📁 Genel (General)**  
+**Paket:** [General](app/src/main/java/basics/general)  
+- [**ConsoleScanner.kt**](app/src/main/java/basics/general/ConsoleScanner.kt): Konsol üzerinden veri girişi (Scanner).  
+
+---
+
+## 🚀 **Öne Çıkanlar**
+- Kotlin temellerinden ileri düzey konseptlere kadar detaylı öğrenme süreci.
+- Kod örnekleri ve açıklamalarla zenginleştirilmiş içerik.
+- Java'dan Kotlin'e geçiş için rehber niteliğinde pratikler.
+---
 
 ---
