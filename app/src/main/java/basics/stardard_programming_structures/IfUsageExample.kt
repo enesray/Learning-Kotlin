@@ -1,5 +1,7 @@
 package basics.stardard_programming_structures
 
+import java.util.Scanner
+
 //if kullanımı
 fun main() {
 
@@ -68,7 +70,43 @@ fun main() {
 
     if (a == b) println("Esit") else println("Esit Degil")
 
+
     println("-------------------------------")
 
+
+    val girdi = Scanner(System.`in`)
+
+    println("Seciminizi yapin:")
+    println("1 - Dikdortgen Alani Hesapla")
+    println("2 - Cember Alani Hesapla")
+    val number = girdi.nextInt()
+    println("Seciminiz: $number")
+
+    var sayi1: Int
+    var sayi2: Int
+    val piSayisi = 3.14
+
+    if (number == 1) {
+        println("Kisa kenari giriniz:")
+        sayi1 = girdi.nextInt()
+        println("Uzun kenari giriniz:")
+        sayi2 = girdi.nextInt()
+
+        val alanHesapla = sayi1 * sayi2
+
+        println("Dikdortgen Alani:")
+        println("Sonuc: $alanHesapla")
+    } else if (number == 2) {
+        println("Yari cap giriniz:")
+        sayi1 = girdi.nextInt()
+
+        val yariCap = piSayisi * sayi1 * sayi1
+        println("cember Alani:")
+        println("Sonuc: $yariCap")
+    } else {
+        println("Gecersiz giriş yaptiniz!")
+    }
+
+    println("-------------------------------")
 
 }
