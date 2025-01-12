@@ -18,6 +18,7 @@ Kotlin programlama dilinin temel kavramlarını içerir.
 #### Basics Paket İçerikleri:
  **[Değişkenler (Variables)](app/src/main/java/basics/variables)**
  **Değişken- Variables İçeriği**
-   1. - [**VariablesCreationTypes.kt**](app/src/main/java/basics/variables/VariablesCreationTypes.kt): Değişken oluşturma ve türleri hakkında kod örnekleri.
+   1. - [**VariablesExample.kt**](app/src/main/java/basics/variables/VariablesExample.kt): Değişken oluşturma kod örnekleri.
+   2. - [**VariablesCreationTypes.kt**](app/src/main/java/basics/variables/VariablesCreationTypes.kt): Değişken Oluşturma Çeşitleri
 
 ---
